@@ -14,9 +14,9 @@
 |     06.     | [June 21](https://youtu.be/norMBBPsmpQ)  |                                                             |
 |     07.     | [June 22](https://youtu.be/10vX4Su2uik)  |                                                             |
 |     08.     | [June 23](https://youtu.be/4dJmtMolTNA)  |                                                             |
-|=============|==========================================|=============================================================|
 |     09.     | [June 24](https://youtu.be/Y1m-OtuLWFE)  |                                                             |
 |     10.     | [June 25](https://youtu.be/WfxrwrGlpo8)  |                                                             |
+|=============|==========================================|=============================================================|
 |     11.     | [June 28](https://youtu.be/vVBfVh8IGe4)  |                                                             |
 |     12.     | [June 29](https://youtu.be/Cy3chGluR50)  |                                                             |
 |     13.     | [June 30](https://youtu.be/UeBwd2RWUaM)  |                                                             |
