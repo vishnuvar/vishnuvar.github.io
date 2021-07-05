@@ -31,7 +31,7 @@
 --------------|------------------------------------------|--------------------------------------------------------------
 |   01.       | [July 01](https://youtu.be/8ZpP-pf8zAI)  |                                                             |
 |   02.       | [July 02](https://youtu.be/DwOoCVeUvl4)  |                                                             |
-|   03.       | [July 03](https://youtu.be/4LKy8KDUy_M)  |                                                             |
+|   03.       | [July 05](https://youtu.be/4LKy8KDUy_M)  |                                                             |
 
 
 <br /><br />
