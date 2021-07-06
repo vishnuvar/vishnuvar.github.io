@@ -32,6 +32,7 @@
 |   01.       | [July 01](https://youtu.be/8ZpP-pf8zAI)  |                                                             |
 |   02.       | [July 02](https://youtu.be/DwOoCVeUvl4)  |                                                             |
 |   03.       | [July 05](https://youtu.be/4LKy8KDUy_M)  |                                                             |
+|   04.       | [July 06](https://youtu.be/XgfxKLlUqE8)  |                                                             |
 
 
 
@@ -52,6 +53,7 @@
 |     01      | [July 01](https://youtu.be/SuSbV3_tK5U)  |                                                             |
 |     02      | [July 02](https://youtu.be/8h2dOAL5ChI)  |                                                             |
 |     03      | [July 05](https://youtu.be/fir2jtdhYm4)  |                                                             |
+|     04      | [July 06](https://youtu.be/jKeIxJl8iW0)  |                                                             |
 
 
 ------------------------------------------------------------------------------------------------------------------------
