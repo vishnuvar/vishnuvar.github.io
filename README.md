@@ -32,21 +32,7 @@
 |   01.       | [July 01](https://youtu.be/8ZpP-pf8zAI)  |                                                             |
 |   02.       | [July 02](https://youtu.be/DwOoCVeUvl4)  |                                                             |
 |   03.       | [July 05](https://youtu.be/4LKy8KDUy_M)  |                                                             |
-|   04.       | [July 05](https://youtu.be/4LKy8KDUy_M)  |                                                             |
-|   05.       | [July 05](https://youtu.be/4LKy8KDUy_M)  |                                                             |
-|   06.       | [July 05](https://youtu.be/4LKy8KDUy_M)  |                                                             |
-|   07.       | [July 05](https://youtu.be/4LKy8KDUy_M)  |                                                             |
-|   08.       | [July 05](https://youtu.be/4LKy8KDUy_M)  |                                                             |
-|   09.       | [July 05](https://youtu.be/4LKy8KDUy_M)  |                                                             |
-|   10.       | [July 05](https://youtu.be/4LKy8KDUy_M)  |                                                             |
-|   11.       | [July 05](https://youtu.be/4LKy8KDUy_M)  |                                                             |
-|   12.       | [July 05](https://youtu.be/4LKy8KDUy_M)  |                                                             |
-|   13.       | [July 05](https://youtu.be/4LKy8KDUy_M)  |                                                             |
-|   14.       | [July 05](https://youtu.be/4LKy8KDUy_M)  |                                                             |
-|   15.       | [July 05](https://youtu.be/4LKy8KDUy_M)  |                                                             |
-|   16.       | [July 05](https://youtu.be/4LKy8KDUy_M)  |                                                             |
-|   17.       | [July 05](https://youtu.be/4LKy8KDUy_M)  |                                                             |
-|   18.       | [July 05](https://youtu.be/4LKy8KDUy_M)  |                                                             |
+
 
 
 
@@ -66,18 +52,6 @@
 |     01      | [July 01](https://youtu.be/SuSbV3_tK5U)  |                                                             |
 |     02      | [July 02](https://youtu.be/8h2dOAL5ChI)  |                                                             |
 |     03      | [July 05](https://youtu.be/fir2jtdhYm4)  |                                                             |
-|     02      | [July 02](https://youtu.be/8h2dOAL5ChI)  |                                                             |
-|     02      | [July 02](https://youtu.be/8h2dOAL5ChI)  |                                                             |
-|     02      | [July 02](https://youtu.be/8h2dOAL5ChI)  |                                                             |
-|     02      | [July 02](https://youtu.be/8h2dOAL5ChI)  |                                                             |
-|     02      | [July 02](https://youtu.be/8h2dOAL5ChI)  |                                                             |
-|     02      | [July 02](https://youtu.be/8h2dOAL5ChI)  |                                                             |
-|     02      | [July 02](https://youtu.be/8h2dOAL5ChI)  |                                                             |
-|     02      | [July 02](https://youtu.be/8h2dOAL5ChI)  |                                                             |
-|     02      | [July 02](https://youtu.be/8h2dOAL5ChI)  |                                                             |
-|     02      | [July 02](https://youtu.be/8h2dOAL5ChI)  |                                                             |
-|     02      | [July 02](https://youtu.be/8h2dOAL5ChI)  |                                                             |
-|     02      | [July 02](https://youtu.be/8h2dOAL5ChI)  |                                                             |
-|     02      | [July 02](https://youtu.be/8h2dOAL5ChI)  |                                                             |
+
 
 ------------------------------------------------------------------------------------------------------------------------
